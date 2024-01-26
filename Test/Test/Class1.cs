@@ -16,5 +16,9 @@ namespace Test
         k= 5;
         z= 5;
         public int K { get => k; set => k = value; }
+
+        ConsoleColor color;
+        char#elifmbkdm;gnkkf
+
     }
 }
