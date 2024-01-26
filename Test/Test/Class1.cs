@@ -10,7 +10,7 @@ namespace Test
     {
         int x;
         int y;
-
-        public int Y { get => y; set => y = value; }
+        int z;
+        public int Z { get => z; set => z = value; }
     }
 }
