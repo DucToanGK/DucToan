@@ -11,6 +11,7 @@ namespace Test
         int x;
         int y;
         int z;
-        public int Z { get => z; set => z = value; }
+        ConsoleColor color;
+        char#elifmbkdm;gnkkf
     }
 }
